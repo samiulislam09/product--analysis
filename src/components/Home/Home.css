@@ -1,0 +1,33 @@
+.header-container{
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    padding: 30px;
+    background-color: antiquewhite;
+}
+.text-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content:flex-start;
+    width: 80%;
+    padding: 40px;
+}
+.title{
+    font-size: 60px;
+    font-weight: bold;
+}
+.second-title{
+    color: blue;
+}
+.live-demo-btn{
+    width: 122px;
+    padding: 15px 13px;
+    margin: 20px;
+    margin-top: 40px;
+    border: none;
+    color: #4949ff;
+    background-color: rgb(200 200 255);
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+}
