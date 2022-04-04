@@ -1,0 +1,15 @@
+.chart-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 25px;
+    
+}
+.chart{
+    margin: 0 auto;
+    text-align: center;
+}
+.chart-title{
+    color: blue;
+    font-weight: bold;
+    margin-top: 40px;
+}

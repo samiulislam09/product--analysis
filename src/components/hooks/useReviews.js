@@ -1,7 +1,7 @@
 const { useState, useEffect } = require("react")
 
 const useReviews = () => {
-    const [reviews, setReviews] = useState;
+    const [reviews, setReviews] = useState([]);
     useEffect(() => {
         fetch('reviews.json')
             .then(res => res.json())
