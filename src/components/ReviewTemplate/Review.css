@@ -15,9 +15,23 @@
 .comment{
     padding: 10px 20px;
     width: 500px;
-}.comment .name{
+}
+.comment .name{
     color: rgba(0, 0, 0, 0.721);
 }
 .name{
     margin: 0;
+}
+@media all and (max-width:480px) {
+    .review{
+        flex-direction: column;
+        width: 95%;
+        margin: 10px auto;
+    }
+    .comment {
+        padding: 10px 20px;
+        width: 100%;
+        text-align: center;
+    }
+    
 }

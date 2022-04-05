@@ -8,3 +8,11 @@
     margin: 20px 0;
     font-size: 35px;
 }
+@media all and (max-width:480px){
+    .review-container{
+        margin: 10px;
+    }
+    .review-title{
+        font-size: 25px;
+    }
+}

@@ -13,3 +13,12 @@
     font-weight: bold;
     margin-top: 40px;
 }
+
+@media all and (max-width: 480px){
+    .chart-container{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .chart{
+        width: 400px;
+    }
+}

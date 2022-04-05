@@ -20,3 +20,18 @@
 .about-title{
     margin: 40px 0;
 }
+
+@media all and (max-width: 480px){
+    .details-section{
+        flex-direction: column;
+    }
+    .details-section img {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .details-section p{
+        width: 100%;
+        margin: 10px 0;
+        font-stretch: expanded;
+    }
+}
