@@ -25,11 +25,10 @@
 @media all and (max-width:480px) {
     .review{
         flex-direction: column;
-        width: 95%;
+        width: 100%;
         margin: 10px auto;
     }
     .comment {
-        padding: 10px 20px;
         width: 100%;
         text-align: center;
     }
