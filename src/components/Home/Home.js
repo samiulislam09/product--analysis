@@ -3,10 +3,9 @@ import './Home.css'
 import useReviews from '../hooks/useReviews'
 import Review from '../ReviewTemplate/Review';
 import { Link } from 'react-router-dom';
-import Reviews from '../Reviews/Reviews';
 
 function Home() {
-  const [reviews, setReviews] = useReviews()
+  const [reviews] = useReviews()
   return (
     <div className="header">
       <div className='header-container'>
