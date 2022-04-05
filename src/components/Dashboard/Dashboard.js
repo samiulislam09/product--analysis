@@ -12,7 +12,7 @@ function Dashboard() {
   return (
     <div className='chart-container'>
       <div className="line-chart chart">
-        <p className='chart-title'>Investment VS Revenue</p>
+        <p className='chart-title'>MONTH WISE SELL</p>
         <LineChart width={500} height={300} data={data}>
           <XAxis dataKey="month" />
           <YAxis />
