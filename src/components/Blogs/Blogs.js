@@ -4,6 +4,7 @@ import './Blogs.css'
 function Blogs() {
   return (
     <div className='blogs-container'>
+      <h1 className="blog-title">Blogs</h1>
       <h2>1. What is context API?</h2>
       <p><span className='ans-title'>Ans. </span>Context API allows to share state across the entire app. Context Api reduces code repeating. We can use context api by React.createContext. Context API returns 2 values. One is consumer and another is provider. To create a context api we need to Create a folder under app root named contexts. then create a file name for context. </p>
       <h2>What is semantic tag?</h2>

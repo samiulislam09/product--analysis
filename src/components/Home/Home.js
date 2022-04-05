@@ -13,7 +13,7 @@ function Home() {
         <div className="text-container">
           <p className='header-title'>Your next laptop</p>
           <p className='header-title second-title'>Your best laptop</p>
-          <p className='header-details'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis neque blanditiis voluptas quis. Nobis placeat illum ipsum cum expedita sequi fugiat. Dignissimos doloribus officia rem mollitia totam vero atque eveniet.</p>
+          <p className='header-details'>Today, industries are reshaping and reimaging what they make and how they do it. Virtual healthcare. Remote education. Smarter shopping. Smarter technology must be made for all. As a Fortune Global 500 technology company and one of Fortune Magazine’s World’s Most Admired Companies, we think and act globally.</p>
           <button className='live-demo-btn'>Live demo</button>
         </div>
         <div className="image-container">
