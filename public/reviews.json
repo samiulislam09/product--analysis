@@ -2,44 +2,44 @@
     {
         "id":1,
         "name": "Golam Mostofa",
-        "img": "https://media.istockphoto.com/vectors/user-avatar-profile-icon-black-vector-illustration-vector-id1209654046?k=20&m=1209654046&s=612x612&w=0&h=Atw7VdjWG8KgyST8AXXJdmBkzn0lvgqyWod9vTb2XoE=",
-        "comment":"loremk idufhiu  sdfiguh iughfs ifuhloremk idfiguh iughfs ifuhloremk idufhiu fsidughf iushfdgiu sdfiguh iughfs ifuhloremk idufhiu fsidughf iushfdgiu sdfiguh iughfs ifuhloremk idufhiu fsidughf iushfdgiu sdfiguh iu fsidughf iushfdgiu sdfiguh iughfs ifuhfs ifuh",
+        "img": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "comment":"I buyed this laptop and its awesome. The preformance of these laptop is way more faster than my old one. I am fully satisfied buying this laptop",
         "rating":4.5
 
     },
     {
         "id": 2,
         "name": "Nahid",
-        "img": "https://media.istockphoto.com/vectors/user-avatar-profile-icon-black-vector-illustration-vector-id1209654046?k=20&m=1209654046&s=612x612&w=0&h=Atw7VdjWG8KgyST8AXXJdmBkzn0lvgqyWod9vTb2XoE=",
-        "comment": "loremk idufhiu fsidughf iushfdgiu sdfiguh iughfs ifuh",
+        "img": "https://api.time.com/wp-content/uploads/2017/12/joey-degrandis-hsam-memory.jpg",
+        "comment": "This produt is so good. I am so happy",
         "rating": 5
     },
     {
         "id": 3,
         "name": "Mahamudul Hasan",
-        "img": "https://media.istockphoto.com/vectors/user-avatar-profile-icon-black-vector-illustration-vector-id1209654046?k=20&m=1209654046&s=612x612&w=0&h=Atw7VdjWG8KgyST8AXXJdmBkzn0lvgqyWod9vTb2XoE=",
-        "comment": "loremk idufhiu fsidughf iushfdgiu sdfiguh iughfs ifuh",
+        "img": "https://a.foxdcg.com/dpp-uploaded/images/credits/613267801b04f90020c6fabd/our_kind_of_people_lance_gross_2x.jpg?fit=inside%7C*:278",
+        "comment": "I buyed this for web development. Its performing good for myjob. I think its good enough for my work",
         "rating": 5
     },
     {
         "id": 4,
         "name": "Ahosan habib",
-        "img": "https://media.istockphoto.com/vectors/user-avatar-profile-icon-black-vector-illustration-vector-id1209654046?k=20&m=1209654046&s=612x612&w=0&h=Atw7VdjWG8KgyST8AXXJdmBkzn0lvgqyWod9vTb2XoE=",
-        "comment": "loremk idufhiu fsidughf iushfdgiu sdfiguh iughfs ifuh",
+        "img": "https://imageio.forbes.com/specials-images/imageserve/5f64397931669e167fc57eaf/960x0.jpg?fit=bounds&format=jpg&width=960",
+        "comment": "Ami amar daily work gula manage korar jonne laptop ta kinechi. Performance motamuti valo. Tobe majhe majhe charging e somossa kortechilo",
         "rating": 4
     },
     {
         "id": 5,
         "name": "Sonjoy Kumar",
-        "img": "https://media.istockphoto.com/vectors/user-avatar-profile-icon-black-vector-illustration-vector-id1209654046?k=20&m=1209654046&s=612x612&w=0&h=Atw7VdjWG8KgyST8AXXJdmBkzn0lvgqyWod9vTb2XoE=",
-        "comment": "loremk idufhiu fsidughf iushfdgiu sdfiguh iughfs ifuh",
+        "img": "https://cdn.cnn.com/cnnnext/dam/assets/211110001950-1b-paul-rudd-file-2019-large-169.jpg",
+        "comment": "Good one",
         "rating": 4.5
     },
     {
         "id": 6,
         "name": "Mehedi Hasan",
-        "img": "https://media.istockphoto.com/vectors/user-avatar-profile-icon-black-vector-illustration-vector-id1209654046?k=20&m=1209654046&s=612x612&w=0&h=Atw7VdjWG8KgyST8AXXJdmBkzn0lvgqyWod9vTb2XoE=",
-        "comment": "loremk idufhiu fsidughf iushfdgiu sdfiguh iughfs ifuh",
+        "img": "https://i.insider.com/5085bf43eab8ea994a000000?width=1000&format=jpeg&auto=webp",
+        "comment": "This laptop looks so good and its so thin. I can carry it everywhere",
         "rating": 4.5
     }
 ]

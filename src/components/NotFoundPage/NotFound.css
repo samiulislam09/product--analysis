@@ -1,0 +1,17 @@
+.not-found-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+.not-found-title{
+    color: #a7b3d9;
+    font-size: 100px;
+}
+.not-found-btn{
+    background-color: #a7b3d9;
+    padding: 5PX 20PX;
+    margin-top: 30PX;
+    border-radius: 5PX;
+}

@@ -25,9 +25,8 @@ function Dashboard() {
         <p className='chart-title'>Investment VS Revenue</p>
         <AreaChart
           width={500}
-          height={300}
+          height={400}
           data={data}
-          stackOffset="expand"
           margin={{
             top: 10,
             right: 30,
@@ -37,9 +36,11 @@ function Dashboard() {
         >
           <CartesianGrid strokeDasharray="3 3" />
           <XAxis dataKey="month" />
-          <YAxis dataKey="investment" />
+          <YAxis />
           <Tooltip />
-          <Area type="monotone" dataKey="investment" stackId="1" stroke="#8884d8" fill="#8884d8" />
+          <Area type="monotone" dataKey="sell" stackId="1" stroke="#8884d8" fill="#8884d8" />
+          <Area type="monotone" dataKey="revenue" stackId="1" stroke="#82ca9d" fill="#82ca9d" />
+          <Area type="monotone" dataKey="investment" stackId="1" stroke="#ffc658" fill="#ffc658" />
         </AreaChart>
       </div>
       <div className="bar-chart chart">

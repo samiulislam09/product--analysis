@@ -1,7 +1,7 @@
 .review{
     display: flex;
     align-items: center;
-    border:1px solid #333;
+    border:1px solid rgba(144, 143, 143, 0.54);
     border-radius: 5px;
     margin: 20px 0;
     padding: 20px;
@@ -10,10 +10,13 @@
 .review img{
     width: 107px;
     height: 107px;
+    border-radius: 50%;
 }
 .comment{
     padding: 10px 20px;
     width: 500px;
+}.comment .name{
+    color: rgba(0, 0, 0, 0.721);
 }
 .name{
     margin: 0;
